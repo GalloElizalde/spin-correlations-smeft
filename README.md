@@ -1,6 +1,6 @@
 # EFT differential fit – analysis notes & code
 
-Personal repository containing an EFT / SMEFT differential analysis developed during my thesis work. 
+Repository containing an EFT / SMEFT differential analysis developed during my master thesis work. 
 The purpose of this codebase is reconstruct the Spin-density-matrix of the ttbar system ant to extract 
 constraints on Wilson coefficients from quantum observables.
 
